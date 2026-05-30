@@ -1,7 +1,7 @@
 # Hi, I'm Rachel Le 👋
 **CS @ UT Austin · Class of 2028**
 
-Undergraduate Computer Science student at the University of Texas at Austin, pursuing double minors in **Business Foundations** and **Statistics & Data Science**. With a background in QA and software development, I'm focused on writing code that's reliable, readable, and built to last.
+Undergraduate Computer Science student at the University of Texas at Austin, pursuing double minors in **Business Foundations** and **Statistics & Data Science**. With a background in QA and software development, I'm focused on writing code that is reliable, readable, and built to last.
 
 ---
 
@@ -29,10 +29,15 @@ Undergraduate Computer Science student at the University of Texas at Austin, pur
 
 ---
 
-### 📫 Let's connect
+### 📫 Let's Connect!
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachel-le-dev/)
-[![Resume](https://img.shields.io/badge/Resume-4A4A4A?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1VL2ib05vqt4Kr4ag7W-bQaMMT7S_PIAN/view)
+<!-- [![Resume](https://img.shields.io/badge/Resume-4A4A4A?style=flat&logo=googledrive&logoColor=white)](RESUME URL) -->
+
+---
+
+### 👾 Misc
+![visitors](https://api.visitorbadge.io/api/visitors?path=rachel-le-dev&label=visitors&countColor=%23263759)
 
 ---
 
