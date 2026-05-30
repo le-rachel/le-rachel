@@ -36,7 +36,9 @@ Undergraduate Computer Science student at the University of Texas at Austin, pur
 
 ---
 
-### 👾 Misc
+### 👾 Misc :)
+![Now Playing](./spotify.svg)
+
 ![visitors](https://api.visitorbadge.io/api/visitors?path=rachel-le-dev&label=visitors&countColor=%23263759)
 
 ---
