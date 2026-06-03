@@ -30,7 +30,7 @@ Undergraduate Computer Science student at the University of Texas at Austin, pur
 ---
 
 ### 📫 Let's Connect!
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://rachel-le-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/le-rachel/)
 <!-- [![Resume](https://img.shields.io/badge/Resume-4A4A4A?style=flat&logo=googledrive&logoColor=white)](RESUME URL) -->
 
